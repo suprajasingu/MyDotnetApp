@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
-  name: supraja
+  name: suprajaVM01
 
 steps:
 - script: echo Hello, world!
